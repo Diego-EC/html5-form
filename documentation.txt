@@ -6,3 +6,6 @@ https://raw.githubusercontent.com/breatheco-de/exercise-html5-form/master/previe
 
 example
 https://github.com/Diego-EC/exercise-instagram-feed-bootstrap
+
+Run with: 
+$ python3 server.py
